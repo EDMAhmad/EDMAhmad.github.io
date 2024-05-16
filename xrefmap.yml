@@ -1,186 +1,660 @@
 ### YamlMime:XRefMap
 sorted: true
 references:
-- uid: F:TableExtension::LSCMobileTransExtesnion.Comment[300]
-  name: Comment
-  href: reference/edm---urbanpiper/TableExtension/LSCMobileTransExtesnion.html
-- uid: F:TableExtension::LSCMobileTransExtesnion.IsUrbanPiperOrder
-  name: IsUrbanPiperOrder
-  href: reference/edm---urbanpiper/TableExtension/LSCMobileTransExtesnion.html
-- uid: F:TableExtension::LSCMobileTransExtesnion.MemberMobNo[30]
-  name: MemberMobNo
-  href: reference/edm---urbanpiper/TableExtension/LSCMobileTransExtesnion.html
-- uid: F:TableExtension::LSCMobileTransExtesnion.PickupDeliveryTime[50]
-  name: PickupDeliveryTime
-  href: reference/edm---urbanpiper/TableExtension/LSCMobileTransExtesnion.html
-- uid: F:TableExtension::LSCMobileTransExtesnion.UrbanAddress2[50]
-  name: UrbanAddress2
-  href: reference/edm---urbanpiper/TableExtension/LSCMobileTransExtesnion.html
-- uid: F:TableExtension::LSCMobileTransExtesnion.UrbanAddress[50]
-  name: UrbanAddress
-  href: reference/edm---urbanpiper/TableExtension/LSCMobileTransExtesnion.html
-- uid: F:TableExtension::LSCMobileTransExtesnion.UrbanChannel[30]
-  name: UrbanChannel
-  href: reference/edm---urbanpiper/TableExtension/LSCMobileTransExtesnion.html
-- uid: F:TableExtension::LSCMobileTransExtesnion.UrbanDeliveryType[30]
-  name: UrbanDeliveryType
-  href: reference/edm---urbanpiper/TableExtension/LSCMobileTransExtesnion.html
-- uid: F:TableExtension::LSCMobileTransExtesnion.UrbanMemberEmail[50]
-  name: UrbanMemberEmail
-  href: reference/edm---urbanpiper/TableExtension/LSCMobileTransExtesnion.html
-- uid: F:TableExtension::LSCMobileTransExtesnion.UrbanMemberName[50]
-  name: UrbanMemberName
-  href: reference/edm---urbanpiper/TableExtension/LSCMobileTransExtesnion.html
-- uid: F:TableExtension::LSCMobileTransExtesnion.UrbanOrderType[30]
-  name: UrbanOrderType
-  href: reference/edm---urbanpiper/TableExtension/LSCMobileTransExtesnion.html
-- uid: F:TableExtension::LSCMobileTransExtesnion.UrbanPaymentType[30]
-  name: UrbanPaymentType
-  href: reference/edm---urbanpiper/TableExtension/LSCMobileTransExtesnion.html
-- uid: F:TableExtension::LSCMobileTransExtesnion.UrbanPlatOrderID[50]
-  name: UrbanPlatOrderID
-  href: reference/edm---urbanpiper/TableExtension/LSCMobileTransExtesnion.html
-- uid: F:TableExtension::POSTransactionExtension.Member_Mob_No#[20]
-  name: "\"Member Mob No.\""
-  href: reference/edm---urbanpiper/TableExtension/POSTransactionExtension.html
-- uid: F:TableExtension::POSTransactionExtension.PickupDeliveryTime[40]
-  name: PickupDeliveryTime
-  href: reference/edm---urbanpiper/TableExtension/POSTransactionExtension.html
-- uid: F:TableExtension::POSTransactionExtension.UrbanChannel[20]
-  name: UrbanChannel
-  href: reference/edm---urbanpiper/TableExtension/POSTransactionExtension.html
-- uid: F:TableExtension::POSTransactionExtension.UrbanDeliveryType[20]
-  name: UrbanDeliveryType
-  href: reference/edm---urbanpiper/TableExtension/POSTransactionExtension.html
-- uid: F:TableExtension::POSTransactionExtension.UrbanNote[100]
-  name: UrbanNote
-  href: reference/edm---urbanpiper/TableExtension/POSTransactionExtension.html
-- uid: F:TableExtension::POSTransactionExtension.UrbanOrderType[20]
-  name: UrbanOrderType
-  href: reference/edm---urbanpiper/TableExtension/POSTransactionExtension.html
-- uid: F:TableExtension::POSTransactionExtension.UrbanPaymentType[20]
-  name: UrbanPaymentType
-  href: reference/edm---urbanpiper/TableExtension/POSTransactionExtension.html
-- uid: F:TableExtension::POSTransactionExtension.UrbanPiperCancelOrder
-  name: UrbanPiperCancelOrder
-  href: reference/edm---urbanpiper/TableExtension/POSTransactionExtension.html
-- uid: F:TableExtension::POSTransactionExtension.UrbanPlatOrderID[30]
-  name: UrbanPlatOrderID
-  href: reference/edm---urbanpiper/TableExtension/POSTransactionExtension.html
-- uid: M:Codeunit::CreateMember_-_EDM.CreateMemberContact(Text,Text,Text,Text,Text)
-  name: CreateMemberContact
-  href: reference/edm---urbanpiper/Codeunit/CreateMember---EDM.html
-- uid: M:Codeunit::CreateMember_-_EDM.CreateMemberShipCard(LSC_Member_Contact@)
-  name: CreateMemberShipCard
-  href: reference/edm---urbanpiper/Codeunit/CreateMember---EDM.html
-- uid: M:Codeunit::Dynamics_JSon_Mgt#.GenerateUrabnPiperItemsJson:Text
-  name: GenerateUrabnPiperItemsJson
-  href: reference/edm---urbanpiper/Codeunit/Dynamics-JSon-Mgt..html
-- uid: M:Codeunit::Dynamics_JSon_Mgt#.GenerateUrabnPiperStoresJson:Text
-  name: GenerateUrabnPiperStoresJson
-  href: reference/edm---urbanpiper/Codeunit/Dynamics-JSon-Mgt..html
-- uid: M:Codeunit::EI-POS_Commands.AddStoresUrbanPiper
-  name: AddStoresUrbanPiper
-  href: reference/edm---urbanpiper/Codeunit/EI-POS-Commands.html
-- uid: M:Codeunit::EI-POS_Commands.OrderUpdateStatusUrbanPiper(LSC_POS_Menu_Line,Text,Text)
-  name: OrderUpdateStatusUrbanPiper
-  href: reference/edm---urbanpiper/Codeunit/EI-POS-Commands.html
-- uid: M:Codeunit::EI-POS_Commands.OrderUpdateStatusUrbanPiperVoid(LSC_POS_Transaction,Text,Text)
-  name: OrderUpdateStatusUrbanPiperVoid
-  href: reference/edm---urbanpiper/Codeunit/EI-POS-Commands.html
-- uid: M:Codeunit::EI-POS_Commands.SyncProductsCategoriesUrbanPiper(Code[10])
-  name: SyncProductsCategoriesUrbanPiper
-  href: reference/edm---urbanpiper/Codeunit/EI-POS-Commands.html
-- uid: M:Codeunit::LSCMobilePosSaveUP.MobilePosSave(Code[30]@,Text@,Code[20],Text,Boolean,XmlPort::LSCMobileTransactionXMLUP@)
-  name: MobilePosSave
-  href: reference/edm---urbanpiper/Codeunit/LSCMobilePosSaveUP.html
-- uid: M:Codeunit::LSCWebPOSUP.CalculateMobileTransactionExt(LSCMobileTransaction@,LSCMobileTransactionLine@,LSCMobileTransDiscountLine@,LSCMobileTransactionOrder@,LSCMobileTransactionSubLine@,Boolean,Boolean,Boolean,Boolean@,Code[20],Code[10]@,Text[250]@,Code[10]@,Text[250]@)
-  name: CalculateMobileTransactionExt
-  href: reference/edm---urbanpiper/Codeunit/LSCWebPOSUP.html
-- uid: M:Codeunit::LSCWebPOSUP.CalculateMobileTransactionExtV2(LSCMobileTransaction@,LSCMobileTransactionLine@,LSCMobileTransDiscountLine@,LSCMobileTransactionOrder@,LSCMobileTransactionSubLine@,Boolean,Boolean,Boolean,Boolean@,Code[20],LSC_WebDeliveryOrder@,Code[10]@,Text[250]@,Code[10]@,Text[250]@)
-  name: CalculateMobileTransactionExtV2
-  href: reference/edm---urbanpiper/Codeunit/LSCWebPOSUP.html
-- uid: M:Codeunit::LSCWebPOSUP.GetCurrentLoadConfig(LSC_Store,Code[20]):Code[20]
-  name: GetCurrentLoadConfig
-  href: reference/edm---urbanpiper/Codeunit/LSCWebPOSUP.html
-- uid: M:Codeunit::LSCWebPOSUP.GetNextQueueCounter(Code[20],LSC_Store_Queue_Counter):Text[100]
-  name: GetNextQueueCounter
-  href: reference/edm---urbanpiper/Codeunit/LSCWebPOSUP.html
-- uid: M:Codeunit::LSCWebPOSUP.GetReceiptNoExt(LSCMobileTransaction@,Boolean,Boolean@,Boolean@):Code[20]
-  name: GetReceiptNoExt
-  href: reference/edm---urbanpiper/Codeunit/LSCWebPOSUP.html
-- uid: M:Codeunit::LSCWebPOSUP.InsertOccupiedSeat(Integer,Boolean,Code[20],Integer)
-  name: InsertOccupiedSeat
-  href: reference/edm---urbanpiper/Codeunit/LSCWebPOSUP.html
-- uid: M:Codeunit::LSCWebPOSUP.InsertQueueCounterInNewTrans(LSC_Store,LSC_POS_Transaction@):Boolean
-  name: InsertQueueCounterInNewTrans
-  href: reference/edm---urbanpiper/Codeunit/LSCWebPOSUP.html
-- uid: M:Codeunit::LSCWebPOSUP.LoadTransaction_CalculatePOSTransAfterProcessingLines(LSC_POS_Transaction@,Boolean,Code[10]@,Text[250]@):Boolean
-  name: LoadTransaction_CalculatePOSTransAfterProcessingLines
-  href: reference/edm---urbanpiper/Codeunit/LSCWebPOSUP.html
-- uid: M:Codeunit::LSCWebPOSUP.LoadTransaction_GetBasicInfoFromMobileTransaction(LSCMobileTransaction@,LSC_Store@,LSC_POS_Terminal@,LSC_Staff@,LSC_POS_Func#_Profile,Code[10]@,Text[250]@):Boolean
-  name: LoadTransaction_GetBasicInfoFromMobileTransaction
-  href: reference/edm---urbanpiper/Codeunit/LSCWebPOSUP.html
-- uid: M:Codeunit::LSCWebPOSUP.LoadTransaction_GetBasicInfoFromMobileTransactionV2(LSCMobileTransaction@,LSC_Store@,LSC_POS_Terminal@,LSC_Staff@,LSC_POS_Func#_Profile@,Code[10]@,Text[250]@):Boolean
-  name: LoadTransaction_GetBasicInfoFromMobileTransactionV2
-  href: reference/edm---urbanpiper/Codeunit/LSCWebPOSUP.html
-- uid: M:Codeunit::UrbanPiperSubscribers.OnAfterVoidPosTrans(LSC_POS_Transaction@)
-  name: OnAfterVoidPosTrans
-  href: reference/edm---urbanpiper/Codeunit/UrbanPiperSubscribers.html
-- uid: M:Codeunit::UrbanPiperVoidTrans_EDM.VoidTransasction(Code[30],Code[20]):Text
-  name: VoidTransasction
-  href: reference/edm---urbanpiper/Codeunit/UrbanPiperVoidTrans-EDM.html
-- uid: N:Module::EDM_-_Urbanpiper
-  name: EDM - Urbanpiper
+- uid: E:Enum::Manual_Unit_Cost_Dev#_Action.Allow
+  name: Allow
+  href: reference/edm---base/Enum/Manual-Unit-Cost-Dev.-Action.html
+- uid: E:Enum::Manual_Unit_Cost_Dev#_Action.Block
+  name: Block
+  href: reference/edm---base/Enum/Manual-Unit-Cost-Dev.-Action.html
+- uid: E:Enum::Manual_Unit_Cost_Dev#_Action.Warning
+  name: Warning
+  href: reference/edm---base/Enum/Manual-Unit-Cost-Dev.-Action.html
+- uid: E:Enum::Order_Posting.Both
+  name: Both
+  href: reference/edm---base/Enum/Order-Posting.html
+- uid: E:Enum::Order_Posting.Invoice
+  name: Invoice
+  href: reference/edm---base/Enum/Order-Posting.html
+- uid: E:Enum::Order_Posting.Receive/Ship
+  name: "\"Receive/Ship\""
+  href: reference/edm---base/Enum/Order-Posting.html
+- uid: E:Enum::Order_Posting._
+  name: "\" \""
+  href: reference/edm---base/Enum/Order-Posting.html
+- uid: E:Enum::Transfer_Order_Posting.Both
+  name: Both
+  href: reference/edm---base/Enum/Transfer-Order-Posting.html
+- uid: E:Enum::Transfer_Order_Posting.Receive
+  name: Receive
+  href: reference/edm---base/Enum/Transfer-Order-Posting.html
+- uid: E:Enum::Transfer_Order_Posting.Ship
+  name: Ship
+  href: reference/edm---base/Enum/Transfer-Order-Posting.html
+- uid: E:Enum::Transfer_Order_Posting._
+  name: "\" \""
+  href: reference/edm---base/Enum/Transfer-Order-Posting.html
+- uid: F:Table::Lookup_Information.Abbreviation[5]
+  name: Abbreviation
+  href: reference/edm---base/Table/Lookup-Information.html
+- uid: F:Table::Lookup_Information.Arabic_Description[100]
+  name: "\"Arabic Description\""
+  href: reference/edm---base/Table/Lookup-Information.html
+- uid: F:Table::Lookup_Information.Code[20]
+  name: Code
+  href: reference/edm---base/Table/Lookup-Information.html
+- uid: F:Table::Lookup_Information.Description[50]
+  name: Description
+  href: reference/edm---base/Table/Lookup-Information.html
+- uid: F:Table::Lookup_Information.Field_Type[50]
+  name: "\"Field Type\""
+  href: reference/edm---base/Table/Lookup-Information.html
+- uid: F:Table::Lookup_Information.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/edm---base/Table/Lookup-Information.html
+- uid: F:Table::Lookup_Information.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/edm---base/Table/Lookup-Information.html
+- uid: F:Table::Lookup_Information.SystemId
+  name: SystemId
+  href: reference/edm---base/Table/Lookup-Information.html
+- uid: F:Table::Lookup_Information.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/edm---base/Table/Lookup-Information.html
+- uid: F:Table::Lookup_Information.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/edm---base/Table/Lookup-Information.html
+- uid: F:Table::Lookup_Information.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/edm---base/Table/Lookup-Information.html
+- uid: F:Table::Lookup_Information.Table_ID
+  name: "\"Table ID\""
+  href: reference/edm---base/Table/Lookup-Information.html
+- uid: F:TableExtension::ApprovalEntry.Sender_Name[80]
+  name: "\"Sender Name\""
+  href: reference/edm---base/TableExtension/ApprovalEntry.html
+- uid: F:TableExtension::CompanyInformation.EDM_-_Base_Count_Down
+  name: "\"EDM - Base Count Down\""
+  href: reference/edm---base/TableExtension/CompanyInformation.html
+- uid: F:TableExtension::Customer.Balance_at_Date
+  name: "\"Balance at Date\""
+  href: reference/edm---base/TableExtension/Customer.html
+- uid: F:TableExtension::DimensionValue.Sale_Order_Nos#[10]
+  name: "\"Sale Order Nos.\""
+  href: reference/edm---base/TableExtension/DimensionValue.html
+- uid: F:TableExtension::DimensionValue.Sale_Posted_Invoice_Nos#[10]
+  name: "\"Sale Posted Invoice Nos.\""
+  href: reference/edm---base/TableExtension/DimensionValue.html
+- uid: F:TableExtension::DimensionValue.Sale_Posted_Shipment_Nos#[10]
+  name: "\"Sale Posted Shipment Nos.\""
+  href: reference/edm---base/TableExtension/DimensionValue.html
+- uid: F:TableExtension::FA_Depreciation_Book.Location_Code[10]
+  name: "\"Location Code\""
+  href: reference/edm---base/TableExtension/FA-Depreciation-Book.html
+- uid: F:TableExtension::GenJourBatch.No#_of_Lines
+  name: "\"No. of Lines\""
+  href: reference/edm---base/TableExtension/GenJourBatch.html
+- uid: F:TableExtension::GenJournalLine.Global_Dimension_1_Filter[20]
+  name: "\"Global Dimension 1 Filter\""
+  href: reference/edm---base/TableExtension/GenJournalLine.html
+- uid: F:TableExtension::Item.Gen#_Prod#_Posting_Group_-_2[20]
+  name: "\"Gen. Prod. Posting Group - 2\""
+  href: reference/edm---base/TableExtension/Item.html
+- uid: F:TableExtension::Item.Manual_Unit_Cost
+  name: "\"Manual Unit Cost\""
+  href: reference/edm---base/TableExtension/Item.html
+- uid: F:TableExtension::Item.Manual_Unit_Cost_Dev#_%
+  name: "\"Manual Unit Cost Dev. %\""
+  href: reference/edm---base/TableExtension/Item.html
+- uid: F:TableExtension::Item.Manual_Unit_Cost_Dev#_Action
+  name: "\"Manual Unit Cost Dev. Action\""
+  href: reference/edm---base/TableExtension/Item.html
+- uid: F:TableExtension::JobQueueEntry.BCC_List[2048]
+  name: "\"BCC List\""
+  href: reference/edm---base/TableExtension/JobQueueEntry.html
+- uid: F:TableExtension::JobQueueEntry.CC_List[2048]
+  name: "\"CC List\""
+  href: reference/edm---base/TableExtension/JobQueueEntry.html
+- uid: F:TableExtension::JobQueueEntry.E-Mails[2024]
+  name: "\"E-Mails\""
+  href: reference/edm---base/TableExtension/JobQueueEntry.html
+- uid: F:TableExtension::JobQueueEntry.Job_Notification_BCC_List[2048]
+  name: "\"Job Notification BCC List\""
+  href: reference/edm---base/TableExtension/JobQueueEntry.html
+- uid: F:TableExtension::JobQueueEntry.Job_Notification_CC_List[2048]
+  name: "\"Job Notification CC List\""
+  href: reference/edm---base/TableExtension/JobQueueEntry.html
+- uid: F:TableExtension::JobQueueEntry.Job_Notification_E-Mails[2048]
+  name: "\"Job Notification E-Mails\""
+  href: reference/edm---base/TableExtension/JobQueueEntry.html
+- uid: F:TableExtension::JobQueueEntry.Report_Description[50]
+  name: "\"Report Description\""
+  href: reference/edm---base/TableExtension/JobQueueEntry.html
+- uid: F:TableExtension::JobQueueEntry.Report_Display_Name[50]
+  name: "\"Report Display Name\""
+  href: reference/edm---base/TableExtension/JobQueueEntry.html
+- uid: F:TableExtension::JobQueueEntry.Send_Email
+  name: "\"Send Email\""
+  href: reference/edm---base/TableExtension/JobQueueEntry.html
+- uid: F:TableExtension::MyItem.Location_Filter[10]
+  name: "\"Location Filter\""
+  href: reference/edm---base/TableExtension/MyItem.html
+- uid: F:TableExtension::SalesHeader.IsTaxCrediteMemo
+  name: IsTaxCrediteMemo
+  href: reference/edm---base/TableExtension/SalesHeader.html
+- uid: F:TableExtension::SalesReceivableSetup.Posted_Tax_Credit_Memo[10]
+  name: "\"Posted Tax Credit Memo\""
+  href: reference/edm---base/TableExtension/SalesReceivableSetup.html
+- uid: F:TableExtension::SalesReceivableSetup.Tax_Credit_Memo[10]
+  name: "\"Tax Credit Memo\""
+  href: reference/edm---base/TableExtension/SalesReceivableSetup.html
+- uid: F:TableExtension::UserSetup.Cash_Receipt_Batch[100]
+  name: "\"Cash Receipt Batch\""
+  href: reference/edm---base/TableExtension/UserSetup.html
+- uid: F:TableExtension::UserSetup.Default_Location[10]
+  name: "\"Default Location\""
+  href: reference/edm---base/TableExtension/UserSetup.html
+- uid: F:TableExtension::UserSetup.Fixed_Asset_No#_Series[10]
+  name: "\"Fixed Asset No. Series\""
+  href: reference/edm---base/TableExtension/UserSetup.html
+- uid: F:TableExtension::UserSetup.General_Journal_Batch[100]
+  name: "\"General Journal Batch\""
+  href: reference/edm---base/TableExtension/UserSetup.html
+- uid: F:TableExtension::UserSetup.Global_Dimension_1_Code[20]
+  name: "\"Global Dimension 1 Code\""
+  href: reference/edm---base/TableExtension/UserSetup.html
+- uid: F:TableExtension::UserSetup.Global_Dimension_2_Code[20]
+  name: "\"Global Dimension 2 Code\""
+  href: reference/edm---base/TableExtension/UserSetup.html
+- uid: F:TableExtension::UserSetup.HideProfiles
+  name: HideProfiles
+  href: reference/edm---base/TableExtension/UserSetup.html
+- uid: F:TableExtension::UserSetup.Location_Filter[2048]
+  name: "\"Location Filter\""
+  href: reference/edm---base/TableExtension/UserSetup.html
+- uid: F:TableExtension::UserSetup.Order_Posting
+  name: "\"Order Posting\""
+  href: reference/edm---base/TableExtension/UserSetup.html
+- uid: F:TableExtension::UserSetup.Payment_Journal_Batch[100]
+  name: "\"Payment Journal Batch\""
+  href: reference/edm---base/TableExtension/UserSetup.html
+- uid: F:TableExtension::UserSetup.Purch#Posted_Invoice_Nos#[10]
+  name: "\"Purch.Posted Invoice Nos.\""
+  href: reference/edm---base/TableExtension/UserSetup.html
+- uid: F:TableExtension::UserSetup.Purch#_Invoice_Nos#[10]
+  name: "\"Purch. Invoice Nos.\""
+  href: reference/edm---base/TableExtension/UserSetup.html
+- uid: F:TableExtension::UserSetup.Purch#_Journal_Batch[100]
+  name: "\"Purch. Journal Batch\""
+  href: reference/edm---base/TableExtension/UserSetup.html
+- uid: F:TableExtension::UserSetup.Sale_Credit_Memo_Nos#[10]
+  name: "\"Sale Credit Memo Nos.\""
+  href: reference/edm---base/TableExtension/UserSetup.html
+- uid: F:TableExtension::UserSetup.Sale_Invoice_Nos#[10]
+  name: "\"Sale Invoice Nos.\""
+  href: reference/edm---base/TableExtension/UserSetup.html
+- uid: F:TableExtension::UserSetup.Sale_Order_Nos#[10]
+  name: "\"Sale Order Nos.\""
+  href: reference/edm---base/TableExtension/UserSetup.html
+- uid: F:TableExtension::UserSetup.Sale_Posted_Credit_Memo_Nos#[10]
+  name: "\"Sale Posted Credit Memo Nos.\""
+  href: reference/edm---base/TableExtension/UserSetup.html
+- uid: F:TableExtension::UserSetup.Sale_Posted_Invoice_Nos#[10]
+  name: "\"Sale Posted Invoice Nos.\""
+  href: reference/edm---base/TableExtension/UserSetup.html
+- uid: F:TableExtension::UserSetup.Sale_Posted_Shipment_Nos#[10]
+  name: "\"Sale Posted Shipment Nos.\""
+  href: reference/edm---base/TableExtension/UserSetup.html
+- uid: F:TableExtension::UserSetup.Sale_Return_Order_Nos#[10]
+  name: "\"Sale Return Order Nos.\""
+  href: reference/edm---base/TableExtension/UserSetup.html
+- uid: F:TableExtension::UserSetup.Sales_Journal_Batch[100]
+  name: "\"Sales Journal Batch\""
+  href: reference/edm---base/TableExtension/UserSetup.html
+- uid: F:TableExtension::UserSetup.Show_Posting_No#_Series
+  name: "\"Show Posting No. Series\""
+  href: reference/edm---base/TableExtension/UserSetup.html
+- uid: F:TableExtension::UserSetup.Skip_Location_Filter
+  name: "\"Skip Location Filter\""
+  href: reference/edm---base/TableExtension/UserSetup.html
+- uid: F:TableExtension::UserSetup.Transfer_Posting
+  name: "\"Transfer Posting\""
+  href: reference/edm---base/TableExtension/UserSetup.html
+- uid: F:TableExtension::VendorHO.Balance_at_Date
+  name: "\"Balance at Date\""
+  href: reference/edm---base/TableExtension/VendorHO.html
+- uid: M:Codeunit::AmounttoTextEDM.FormatNoText(Text[80][]@,Decimal,Code[10])
+  name: FormatNoText
+  href: reference/edm---base/Codeunit/AmounttoTextEDM.html
+- uid: M:Codeunit::AmounttoTextEDM.InitTextVariable
+  name: InitTextVariable
+  href: reference/edm---base/Codeunit/AmounttoTextEDM.html
+- uid: M:Codeunit::EDM_-_Base_Functions.CheckLicense:Boolean
+  name: CheckLicense
+  href: reference/edm---base/Codeunit/EDM---Base-Functions.html
+- uid: M:Codeunit::EDM_-_Base_Functions.CheckLicenseFunctionCustomizations(Boolean)
+  name: CheckLicenseFunctionCustomizations
+  href: reference/edm---base/Codeunit/EDM---Base-Functions.html
+- uid: M:Codeunit::EDM_-_Base_Functions.CheckValidEmailAddress(Text):Boolean
+  name: CheckValidEmailAddress
+  href: reference/edm---base/Codeunit/EDM---Base-Functions.html
+- uid: M:Codeunit::EDM_-_Base_Functions.EDMSignatures(Codeunit::System#Email#Email_Message)
+  name: EDMSignatures
+  href: reference/edm---base/Codeunit/EDM---Base-Functions.html
+- uid: M:Codeunit::EDM_-_Base_Functions.GenerateURL(Code[20],Code[20],Code[20],Text[30]):Text
+  name: GenerateURL
+  href: reference/edm---base/Codeunit/EDM---Base-Functions.html
+- uid: M:Codeunit::EDM_-_Base_Functions.GetJsonTextField(JsonObject@,Text):Text
+  name: GetJsonTextField
+  href: reference/edm---base/Codeunit/EDM---Base-Functions.html
+- uid: M:Codeunit::EDM_-_Base_Functions.GetNOTEEDM(RecordId):Text
+  name: GetNOTEEDM
+  href: reference/edm---base/Codeunit/EDM---Base-Functions.html
+- uid: M:Codeunit::EDM_-_Base_Functions.GetReceipient(Text,List[Text]@)
+  name: GetReceipient
+  href: reference/edm---base/Codeunit/EDM---Base-Functions.html
+- uid: M:Codeunit::EDM_-_Base_Functions.GetSenderEmailAddress:Text[250]
+  name: GetSenderEmailAddress
+  href: reference/edm---base/Codeunit/EDM---Base-Functions.html
+- uid: M:Codeunit::EDM_-_Base_Functions.SendReportByEMail(Job_Queue_Entry@)
+  name: SendReportByEMail
+  href: reference/edm---base/Codeunit/EDM---Base-Functions.html
+- uid: M:Codeunit::EDM_-_Base_Functions.SendTransactionLog(Code[20],Code[20],Text[30],Code[20])
+  name: SendTransactionLog
+  href: reference/edm---base/Codeunit/EDM---Base-Functions.html
+- uid: M:Codeunit::EDM_-_Base_Subscribers.CheckItemCostRestrictions(Code[20],Decimal,Decimal,Code[20],Integer)
+  name: CheckItemCostRestrictions
+  href: reference/edm---base/Codeunit/EDM---Base-Subscribers.html
+- uid: M:Codeunit::EDM_-_Base_Subscribers.MandatoryCustomerFieldsForZATCAPhase2(Customer)
+  name: MandatoryCustomerFieldsForZATCAPhase2
+  href: reference/edm---base/Codeunit/EDM---Base-Subscribers.html
+- uid: M:Codeunit::EDM_-_Base_Subscribers.OnBeforeActionEventPostPhyInvJnlSubscriber(Item_Journal_Line@)
+  name: OnBeforeActionEventPostPhyInvJnlSubscriber
+  href: reference/edm---base/Codeunit/EDM---Base-Subscribers.html
+- uid: M:Codeunit::EDM_-_Base_Subscribers.OnBeforeActionEventSendApprovalRequestLSCPOSubscriber(Purchase_Header@)
+  name: OnBeforeActionEventSendApprovalRequestLSCPOSubscriber
+  href: reference/edm---base/Codeunit/EDM---Base-Subscribers.html
+- uid: M:Codeunit::EDM_-_Base_Subscribers.OnBeforeActionEventSendApprovalRequestPOSubscriber(Purchase_Header@)
+  name: OnBeforeActionEventSendApprovalRequestPOSubscriber
+  href: reference/edm---base/Codeunit/EDM---Base-Subscribers.html
+- uid: M:Codeunit::InsertFixedAssetandArabicEDM.AssetAndLedger(Date,Code[10])
+  name: AssetAndLedger
+  href: reference/edm---base/Codeunit/InsertFixedAssetandArabicEDM.html
+- uid: M:Codeunit::InsertFixedAssetandArabicEDM.FindLastEntry(FA_Ledger_Entry):Integer
+  name: FindLastEntry
+  href: reference/edm---base/Codeunit/InsertFixedAssetandArabicEDM.html
+- uid: M:Codeunit::InsertFixedAssetandArabicEDM.FormatNoText(Text[80][]@,Decimal,Code[30])
+  name: FormatNoText
+  href: reference/edm---base/Codeunit/InsertFixedAssetandArabicEDM.html
+- uid: M:Codeunit::InsertFixedAssetandArabicEDM.InitTextVariable
+  name: InitTextVariable
+  href: reference/edm---base/Codeunit/InsertFixedAssetandArabicEDM.html
+- uid: M:PageExtension::LocationListEDMCUST.GetSelection:Text
+  name: GetSelection
+  href: reference/edm---base/PageExtension/LocationListEDMCUST.html
+- uid: M:PageExtension::SalesOrder.SetPostingNoSeriesVsisibility
+  name: SetPostingNoSeriesVsisibility
+  href: reference/edm---base/PageExtension/SalesOrder.html
+- uid: M:Report::Customer_-_DetailTrialBal#-EDM.InitializeRequest(Boolean,Boolean,Boolean)
+  name: InitializeRequest
+  href: reference/edm---base/Report/Customer---DetailTrialBal.-EDM.html
+- uid: M:Report::Employee_Det_Trial_Balance_EDM.InitializeRequest(Boolean,Boolean,Boolean)
+  name: InitializeRequest
+  href: reference/edm---base/Report/Employee-Det-Trial-Balance-EDM.html
+- uid: M:Report::Import_Item_Journal_from_Excel.SetJournalBatchName(Code[20])
+  name: SetJournalBatchName
+  href: reference/edm---base/Report/Import-Item-Journal-from-Excel.html
+- uid: M:Report::Payment_Voucher.SetParameter(Code[20]@,Code[20]@,Code[20]@)
+  name: SetParameter
+  href: reference/edm---base/Report/Payment-Voucher.html
+- uid: M:Report::Vendor_Detail_Trial_Bal_EDM.InitializeRequest(Boolean,Boolean,Boolean,Boolean)
+  name: InitializeRequest
+  href: reference/edm---base/Report/Vendor-Detail-Trial-Bal-EDM.html
+- uid: M:Report::Vendor_Detail_Trial_Bal_EDM.SkipReversedUnapplied(Detailed_Vendor_Ledg#_Entry@):Boolean
+  name: SkipReversedUnapplied
+  href: reference/edm---base/Report/Vendor-Detail-Trial-Bal-EDM.html
+- uid: M:TableExtension::ItemJournalLine.RenumberDocNo(Code[20],Code[20])
+  name: RenumberDocNo
+  href: reference/edm---base/TableExtension/ItemJournalLine.html
+- uid: M:TableExtension::ItemJournalLine.ZerofyQtyPhysical(Code[20],Code[20])
+  name: ZerofyQtyPhysical
+  href: reference/edm---base/TableExtension/ItemJournalLine.html
+- uid: M:TableExtension::ItemJournalLine.ZerofyUnitAmount(Code[20],Code[20])
+  name: ZerofyUnitAmount
+  href: reference/edm---base/TableExtension/ItemJournalLine.html
+- uid: M:TableExtension::SalesHeader.FillDefaultLocationBasedOnUserSetup
+  name: FillDefaultLocationBasedOnUserSetup
+  href: reference/edm---base/TableExtension/SalesHeader.html
+- uid: N:Module::EDM_-_Base
+  name: EDM - Base
   summary: ''
-  fqName: EDM - Urbanpiper by EDM (1.0.0.0)
-  href: reference/edm---urbanpiper/Module/EDM---Urbanpiper.html
-- uid: N:Module::EDM_-_Urbanpiper_obsolete_by_21.2
-  tag: "21.2"
-  href: reference/edm---urbanpiper/Obsoletion/obsolete_by_21.2.html
-- uid: N:Module::EDM_-_Urbanpiper_obsolete_by_21.2#21.2
-  href: reference/edm---urbanpiper/Obsoletion/obsolete_by_21.2.html
-- uid: O:Codeunit::CreateMember_-_EDM
-  name: "\"CreateMember - EDM\""
-  fqName: "\"CreateMember - EDM\""
-  href: reference/edm---urbanpiper/Codeunit/CreateMember---EDM.html
-- uid: O:Codeunit::Dynamics_JSon_Mgt#
-  name: "\"Dynamics JSon Mgt.\""
-  fqName: "\"Dynamics JSon Mgt.\""
-  href: reference/edm---urbanpiper/Codeunit/Dynamics-JSon-Mgt..html
-- uid: O:Codeunit::EI-POS_Commands
-  name: "\"EI-POS Commands\""
-  fqName: "\"EI-POS Commands\""
-  href: reference/edm---urbanpiper/Codeunit/EI-POS-Commands.html
-- uid: O:Codeunit::GetImageUrl
-  name: GetImageUrl
-  fqName: GetImageUrl
-  href: reference/edm---urbanpiper/Codeunit/GetImageUrl.html
-- uid: O:Codeunit::LSCMobilePosSaveUP
-  name: LSCMobilePosSaveUP
-  fqName: LSCMobilePosSaveUP
-  href: reference/edm---urbanpiper/Codeunit/LSCMobilePosSaveUP.html
-- uid: O:Codeunit::LSCWebPOSUP
-  name: LSCWebPOSUP
-  fqName: LSCWebPOSUP
-  href: reference/edm---urbanpiper/Codeunit/LSCWebPOSUP.html
-- uid: O:Codeunit::UrbanPiperSubscribers
-  name: UrbanPiperSubscribers
-  fqName: UrbanPiperSubscribers
-  href: reference/edm---urbanpiper/Codeunit/UrbanPiperSubscribers.html
-- uid: O:Codeunit::UrbanPiperVoidTrans_EDM
-  name: UrbanPiperVoidTrans_EDM
-  fqName: UrbanPiperVoidTrans_EDM
-  href: reference/edm---urbanpiper/Codeunit/UrbanPiperVoidTrans-EDM.html
-- uid: O:TableExtension::LSCMobileTransExtesnion
-  name: LSCMobileTransExtesnion
-  fqName: LSCMobileTransExtesnion
-  href: reference/edm---urbanpiper/TableExtension/LSCMobileTransExtesnion.html
-- uid: O:TableExtension::POSTransactionExtension
-  name: POSTransactionExtension
-  fqName: POSTransactionExtension
-  href: reference/edm---urbanpiper/TableExtension/POSTransactionExtension.html
-- uid: O:XmlPort::LSCMobileTransactionXMLUP
-  name: LSCMobileTransactionXMLUP
-  fqName: LSCMobileTransactionXMLUP
-  href: reference/edm---urbanpiper/XmlPort/LSCMobileTransactionXMLUP.html
+  fqName: EDM - Base by EDM (1.0.0.0)
+  href: reference/edm---base/Module/EDM---Base.html
+- uid: O:Codeunit::AmounttoTextEDM
+  name: AmounttoTextEDM
+  fqName: AmounttoTextEDM
+  href: reference/edm---base/Codeunit/AmounttoTextEDM.html
+- uid: O:Codeunit::EDM_-_Base_Functions
+  name: "\"EDM - Base Functions\""
+  fqName: "\"EDM - Base Functions\""
+  href: reference/edm---base/Codeunit/EDM---Base-Functions.html
+- uid: O:Codeunit::EDM_-_Base_Subscribers
+  name: "\"EDM - Base Subscribers\""
+  fqName: "\"EDM - Base Subscribers\""
+  href: reference/edm---base/Codeunit/EDM---Base-Subscribers.html
+- uid: O:Codeunit::EDM_-_Base_Subscribers_SI
+  name: "\"EDM - Base Subscribers SI\""
+  fqName: "\"EDM - Base Subscribers SI\""
+  href: reference/edm---base/Codeunit/EDM---Base-Subscribers-SI.html
+- uid: O:Codeunit::InsertFixedAssetandArabicEDM
+  name: InsertFixedAssetandArabicEDM
+  fqName: InsertFixedAssetandArabicEDM
+  href: reference/edm---base/Codeunit/InsertFixedAssetandArabicEDM.html
+- uid: O:Codeunit::JobRestarterHO
+  name: JobRestarterHO
+  fqName: JobRestarterHO
+  href: reference/edm---base/Codeunit/JobRestarterHO.html
+- uid: O:Codeunit::Job_Queue_Functions_-_EDM
+  name: "\"Job Queue Functions - EDM\""
+  fqName: "\"Job Queue Functions - EDM\""
+  href: reference/edm---base/Codeunit/Job-Queue-Functions---EDM.html
+- uid: O:Enum::Manual_Unit_Cost_Dev#_Action
+  name: "\"Manual Unit Cost Dev. Action\""
+  fqName: "\"Manual Unit Cost Dev. Action\""
+  href: reference/edm---base/Enum/Manual-Unit-Cost-Dev.-Action.html
+- uid: O:Enum::Order_Posting
+  name: "\"Order Posting\""
+  fqName: "\"Order Posting\""
+  href: reference/edm---base/Enum/Order-Posting.html
+- uid: O:Enum::Transfer_Order_Posting
+  name: "\"Transfer Order Posting\""
+  fqName: "\"Transfer Order Posting\""
+  href: reference/edm---base/Enum/Transfer-Order-Posting.html
+- uid: O:Page::Lookup_information
+  name: "\"Lookup information\""
+  fqName: "\"Lookup information\""
+  href: reference/edm---base/Page/Lookup-information.html
+- uid: O:PageExtension::CashReceiptJournal
+  name: CashReceiptJournal
+  fqName: CashReceiptJournal
+  href: reference/edm---base/PageExtension/CashReceiptJournal.html
+- uid: O:PageExtension::ChartOfAccount
+  name: ChartOfAccount
+  fqName: ChartOfAccount
+  href: reference/edm---base/PageExtension/ChartOfAccount.html
+- uid: O:PageExtension::ChartofAccounts
+  name: ChartofAccounts
+  fqName: ChartofAccounts
+  href: reference/edm---base/PageExtension/ChartofAccounts.html
+- uid: O:PageExtension::CustomerCard
+  name: CustomerCard
+  fqName: CustomerCard
+  href: reference/edm---base/PageExtension/CustomerCard.html
+- uid: O:PageExtension::CustomerLedgerEntries
+  name: CustomerLedgerEntries
+  fqName: CustomerLedgerEntries
+  href: reference/edm---base/PageExtension/CustomerLedgerEntries.html
+- uid: O:PageExtension::CustomerList
+  name: CustomerList
+  fqName: CustomerList
+  href: reference/edm---base/PageExtension/CustomerList.html
+- uid: O:PageExtension::EmailAccounts
+  name: EmailAccounts
+  fqName: EmailAccounts
+  href: reference/edm---base/PageExtension/EmailAccounts.html
+- uid: O:PageExtension::EmployeeList
+  name: EmployeeList
+  fqName: EmployeeList
+  href: reference/edm---base/PageExtension/EmployeeList.html
+- uid: O:PageExtension::FADepreciationBooks
+  name: FADepreciationBooks
+  fqName: FADepreciationBooks
+  href: reference/edm---base/PageExtension/FADepreciationBooks.html
+- uid: O:PageExtension::FixedAssetList
+  name: FixedAssetList
+  fqName: FixedAssetList
+  href: reference/edm---base/PageExtension/FixedAssetList.html
+- uid: O:PageExtension::GLRegister
+  name: GLRegister
+  fqName: GLRegister
+  href: reference/edm---base/PageExtension/GLRegister.html
+- uid: O:PageExtension::GLRegisters
+  name: GLRegisters
+  fqName: GLRegisters
+  href: reference/edm---base/PageExtension/GLRegisters.html
+- uid: O:PageExtension::GeneralJournal
+  name: GeneralJournal
+  fqName: GeneralJournal
+  href: reference/edm---base/PageExtension/GeneralJournal.html
+- uid: O:PageExtension::GeneralLedgerEntries
+  name: GeneralLedgerEntries
+  fqName: GeneralLedgerEntries
+  href: reference/edm---base/PageExtension/GeneralLedgerEntries.html
+- uid: O:PageExtension::ItemCard
+  name: ItemCard
+  fqName: ItemCard
+  href: reference/edm---base/PageExtension/ItemCard.html
+- uid: O:PageExtension::ItemLedgerEntries
+  name: ItemLedgerEntries
+  fqName: ItemLedgerEntries
+  href: reference/edm---base/PageExtension/ItemLedgerEntries.html
+- uid: O:PageExtension::ItemList
+  name: ItemList
+  fqName: ItemList
+  href: reference/edm---base/PageExtension/ItemList.html
+- uid: O:PageExtension::JobQueueEntryCard
+  name: JobQueueEntryCard
+  fqName: JobQueueEntryCard
+  href: reference/edm---base/PageExtension/JobQueueEntryCard.html
+- uid: O:PageExtension::LocationListEDMCUST
+  name: LocationListEDMCUST
+  fqName: LocationListEDMCUST
+  href: reference/edm---base/PageExtension/LocationListEDMCUST.html
+- uid: O:PageExtension::MyItems
+  name: MyItems
+  fqName: MyItems
+  href: reference/edm---base/PageExtension/MyItems.html
+- uid: O:PageExtension::MyVendors
+  name: MyVendors
+  fqName: MyVendors
+  href: reference/edm---base/PageExtension/MyVendors.html
+- uid: O:PageExtension::Payment_Journal
+  name: "\"Payment Journal\""
+  fqName: "\"Payment Journal\""
+  href: reference/edm---base/PageExtension/Payment-Journal.html
+- uid: O:PageExtension::Phys#InventoryJournal
+  name: "\"Phys.InventoryJournal\""
+  fqName: "\"Phys.InventoryJournal\""
+  href: reference/edm---base/PageExtension/Phys.InventoryJournal.html
+- uid: O:PageExtension::PostedPurchaseInvoices
+  name: PostedPurchaseInvoices
+  fqName: PostedPurchaseInvoices
+  href: reference/edm---base/PageExtension/PostedPurchaseInvoices.html
+- uid: O:PageExtension::PostedSalesCreditMemos
+  name: PostedSalesCreditMemos
+  fqName: PostedSalesCreditMemos
+  href: reference/edm---base/PageExtension/PostedSalesCreditMemos.html
+- uid: O:PageExtension::PostedSalesInvoices
+  name: PostedSalesInvoices
+  fqName: PostedSalesInvoices
+  href: reference/edm---base/PageExtension/PostedSalesInvoices.html
+- uid: O:PageExtension::PostedSalesShipment
+  name: PostedSalesShipment
+  fqName: PostedSalesShipment
+  href: reference/edm---base/PageExtension/PostedSalesShipment.html
+- uid: O:PageExtension::PostedTransferReceipts
+  name: PostedTransferReceipts
+  fqName: PostedTransferReceipts
+  href: reference/edm---base/PageExtension/PostedTransferReceipts.html
+- uid: O:PageExtension::PostedTransferShipments
+  name: PostedTransferShipments
+  fqName: PostedTransferShipments
+  href: reference/edm---base/PageExtension/PostedTransferShipments.html
+- uid: O:PageExtension::PurchaseJournal
+  name: PurchaseJournal
+  fqName: PurchaseJournal
+  href: reference/edm---base/PageExtension/PurchaseJournal.html
+- uid: O:PageExtension::PurchaseOrderList
+  name: PurchaseOrderList
+  fqName: PurchaseOrderList
+  href: reference/edm---base/PageExtension/PurchaseOrderList.html
+- uid: O:PageExtension::RequeststoApproveHO
+  name: RequeststoApproveHO
+  fqName: RequeststoApproveHO
+  href: reference/edm---base/PageExtension/RequeststoApproveHO.html
+- uid: O:PageExtension::SalesOrder
+  name: SalesOrder
+  fqName: SalesOrder
+  href: reference/edm---base/PageExtension/SalesOrder.html
+- uid: O:PageExtension::SalesOrderList
+  name: SalesOrderList
+  fqName: SalesOrderList
+  href: reference/edm---base/PageExtension/SalesOrderList.html
+- uid: O:PageExtension::SalesReturnOrderList
+  name: SalesReturnOrderList
+  fqName: SalesReturnOrderList
+  href: reference/edm---base/PageExtension/SalesReturnOrderList.html
+- uid: O:PageExtension::UserSettings
+  name: UserSettings
+  fqName: UserSettings
+  href: reference/edm---base/PageExtension/UserSettings.html
+- uid: O:PageExtension::UserSetup
+  name: UserSetup
+  fqName: UserSetup
+  href: reference/edm---base/PageExtension/UserSetup.html
+- uid: O:PageExtension::VendorDetails
+  name: VendorDetails
+  fqName: VendorDetails
+  href: reference/edm---base/PageExtension/VendorDetails.html
+- uid: O:Report::Customer_-TrialBalanceGB1
+  name: "\"Customer -TrialBalanceGB1\""
+  fqName: "\"Customer -TrialBalanceGB1\""
+  href: reference/edm---base/Report/Customer--TrialBalanceGB1.html
+- uid: O:Report::Customer_-_DetailTrialBal#-EDM
+  name: "\"Customer - DetailTrialBal.-EDM\""
+  fqName: "\"Customer - DetailTrialBal.-EDM\""
+  href: reference/edm---base/Report/Customer---DetailTrialBal.-EDM.html
+- uid: O:Report::Employee_-_Trial_Balance_-_EDM
+  name: "\"Employee - Trial Balance - EDM\""
+  fqName: "\"Employee - Trial Balance - EDM\""
+  href: reference/edm---base/Report/Employee---Trial-Balance---EDM.html
+- uid: O:Report::Employee_Det_Trial_Balance_EDM
+  name: "\"Employee Det Trial Balance EDM\""
+  fqName: "\"Employee Det Trial Balance EDM\""
+  href: reference/edm---base/Report/Employee-Det-Trial-Balance-EDM.html
+- uid: O:Report::G/L_Register_-_EDM
+  name: "\"G/L Register - EDM\""
+  fqName: "\"G/L Register - EDM\""
+  href: reference/edm---base/Report/G-L-Register---EDM.html
+- uid: O:Report::Import_Item_Journal_from_Excel
+  name: "\"Import Item Journal from Excel\""
+  fqName: "\"Import Item Journal from Excel\""
+  href: reference/edm---base/Report/Import-Item-Journal-from-Excel.html
+- uid: O:Report::Payment_Voucher
+  name: "\"Payment Voucher\""
+  fqName: "\"Payment Voucher\""
+  href: reference/edm---base/Report/Payment-Voucher.html
+- uid: O:Report::Trial_Balance_-_EDM_2
+  name: "\"Trial Balance - EDM 2\""
+  fqName: "\"Trial Balance - EDM 2\""
+  href: reference/edm---base/Report/Trial-Balance---EDM-2.html
+- uid: O:Report::Trial_Balance_-_EDM_GB1
+  name: "\"Trial Balance - EDM GB1\""
+  fqName: "\"Trial Balance - EDM GB1\""
+  href: reference/edm---base/Report/Trial-Balance---EDM-GB1.html
+- uid: O:Report::Vendor_-_Trial_Balance-GB1
+  name: "\"Vendor - Trial Balance-GB1\""
+  fqName: "\"Vendor - Trial Balance-GB1\""
+  href: reference/edm---base/Report/Vendor---Trial-Balance-GB1.html
+- uid: O:Report::Vendor_-_Trial_Balance_EDM
+  name: "\"Vendor - Trial Balance EDM\""
+  fqName: "\"Vendor - Trial Balance EDM\""
+  href: reference/edm---base/Report/Vendor---Trial-Balance-EDM.html
+- uid: O:Report::Vendor_Detail_Trial_Bal_EDM
+  name: "\"Vendor Detail Trial Bal EDM\""
+  fqName: "\"Vendor Detail Trial Bal EDM\""
+  href: reference/edm---base/Report/Vendor-Detail-Trial-Bal-EDM.html
+- uid: O:ReportExtension::AdjustCostItemEntriesEDM
+  name: AdjustCostItemEntriesEDM
+  fqName: AdjustCostItemEntriesEDM
+  href: reference/edm---base/ReportExtension/AdjustCostItemEntriesEDM.html
+- uid: O:Table::Lookup_Information
+  name: "\"Lookup Information\""
+  fqName: "\"Lookup Information\""
+  href: reference/edm---base/Table/Lookup-Information.html
+- uid: O:TableExtension::ApprovalEntry
+  name: ApprovalEntry
+  fqName: ApprovalEntry
+  href: reference/edm---base/TableExtension/ApprovalEntry.html
+- uid: O:TableExtension::CompanyInformation
+  name: CompanyInformation
+  fqName: CompanyInformation
+  href: reference/edm---base/TableExtension/CompanyInformation.html
+- uid: O:TableExtension::Customer
+  name: Customer
+  fqName: Customer
+  href: reference/edm---base/TableExtension/Customer.html
+- uid: O:TableExtension::DimensionValue
+  name: DimensionValue
+  fqName: DimensionValue
+  href: reference/edm---base/TableExtension/DimensionValue.html
+- uid: O:TableExtension::FA_Depreciation_Book
+  name: "\"FA Depreciation Book\""
+  fqName: "\"FA Depreciation Book\""
+  href: reference/edm---base/TableExtension/FA-Depreciation-Book.html
+- uid: O:TableExtension::FixedAsset
+  name: FixedAsset
+  fqName: FixedAsset
+  href: reference/edm---base/TableExtension/FixedAsset.html
+- uid: O:TableExtension::GLAccount
+  name: GLAccount
+  fqName: GLAccount
+  href: reference/edm---base/TableExtension/GLAccount.html
+- uid: O:TableExtension::GenJourBatch
+  name: GenJourBatch
+  fqName: GenJourBatch
+  href: reference/edm---base/TableExtension/GenJourBatch.html
+- uid: O:TableExtension::GenJournalLine
+  name: GenJournalLine
+  fqName: GenJournalLine
+  href: reference/edm---base/TableExtension/GenJournalLine.html
+- uid: O:TableExtension::Item
+  name: Item
+  fqName: Item
+  href: reference/edm---base/TableExtension/Item.html
+- uid: O:TableExtension::ItemJournalLine
+  name: ItemJournalLine
+  fqName: ItemJournalLine
+  href: reference/edm---base/TableExtension/ItemJournalLine.html
+- uid: O:TableExtension::JobQueueEntry
+  name: JobQueueEntry
+  fqName: JobQueueEntry
+  href: reference/edm---base/TableExtension/JobQueueEntry.html
+- uid: O:TableExtension::MyItem
+  name: MyItem
+  fqName: MyItem
+  href: reference/edm---base/TableExtension/MyItem.html
+- uid: O:TableExtension::PurchaseHeader
+  name: PurchaseHeader
+  fqName: PurchaseHeader
+  href: reference/edm---base/TableExtension/PurchaseHeader.html
+- uid: O:TableExtension::SalesHeader
+  name: SalesHeader
+  fqName: SalesHeader
+  href: reference/edm---base/TableExtension/SalesHeader.html
+- uid: O:TableExtension::SalesReceivableSetup
+  name: SalesReceivableSetup
+  fqName: SalesReceivableSetup
+  href: reference/edm---base/TableExtension/SalesReceivableSetup.html
+- uid: O:TableExtension::TransferHeader
+  name: TransferHeader
+  fqName: TransferHeader
+  href: reference/edm---base/TableExtension/TransferHeader.html
+- uid: O:TableExtension::UserSetup
+  name: UserSetup
+  fqName: UserSetup
+  href: reference/edm---base/TableExtension/UserSetup.html
+- uid: O:TableExtension::VendorHO
+  name: VendorHO
+  fqName: VendorHO
+  href: reference/edm---base/TableExtension/VendorHO.html

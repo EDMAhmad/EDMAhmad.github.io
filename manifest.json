@@ -1,8 +1,18 @@
 {
   "homepages": [],
-  "source_base_path": "C:/Users/EDM/Documents/AL/EDM - Urbanpiper - Older Version",
+  "source_base_path": "C:/Users/EDM/Desktop/Cloned Repositories/EDM/EDM-Base",
   "xrefmap": "xrefmap.yml",
   "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html"
+        }
+      },
+      "version": ""
+    },
     {
       "type": "Conceptual",
       "source_relative_path": "index.md",
@@ -15,130 +25,830 @@
     },
     {
       "type": "BusinessCentralApplicationObject",
-      "source_relative_path": "reference/edm---urbanpiper/Codeunit/CreateMember---EDM.yml",
+      "source_relative_path": "reference/edm---base/Codeunit/AmounttoTextEDM.yml",
       "output": {
         ".html": {
-          "relative_path": "reference/edm---urbanpiper/Codeunit/CreateMember---EDM.html"
+          "relative_path": "reference/edm---base/Codeunit/AmounttoTextEDM.html"
         }
       },
       "version": ""
     },
     {
       "type": "BusinessCentralApplicationObject",
-      "source_relative_path": "reference/edm---urbanpiper/Codeunit/Dynamics-JSon-Mgt..yml",
+      "source_relative_path": "reference/edm---base/Codeunit/EDM---Base-Functions.yml",
       "output": {
         ".html": {
-          "relative_path": "reference/edm---urbanpiper/Codeunit/Dynamics-JSon-Mgt..html"
+          "relative_path": "reference/edm---base/Codeunit/EDM---Base-Functions.html"
         }
       },
       "version": ""
     },
     {
       "type": "BusinessCentralApplicationObject",
-      "source_relative_path": "reference/edm---urbanpiper/Codeunit/EI-POS-Commands.yml",
+      "source_relative_path": "reference/edm---base/Codeunit/EDM---Base-Subscribers-SI.yml",
       "output": {
         ".html": {
-          "relative_path": "reference/edm---urbanpiper/Codeunit/EI-POS-Commands.html"
+          "relative_path": "reference/edm---base/Codeunit/EDM---Base-Subscribers-SI.html"
         }
       },
       "version": ""
     },
     {
       "type": "BusinessCentralApplicationObject",
-      "source_relative_path": "reference/edm---urbanpiper/Codeunit/GetImageUrl.yml",
+      "source_relative_path": "reference/edm---base/Codeunit/EDM---Base-Subscribers.yml",
       "output": {
         ".html": {
-          "relative_path": "reference/edm---urbanpiper/Codeunit/GetImageUrl.html"
+          "relative_path": "reference/edm---base/Codeunit/EDM---Base-Subscribers.html"
         }
       },
       "version": ""
     },
     {
       "type": "BusinessCentralApplicationObject",
-      "source_relative_path": "reference/edm---urbanpiper/Codeunit/LSCMobilePosSaveUP.yml",
+      "source_relative_path": "reference/edm---base/Codeunit/InsertFixedAssetandArabicEDM.yml",
       "output": {
         ".html": {
-          "relative_path": "reference/edm---urbanpiper/Codeunit/LSCMobilePosSaveUP.html"
+          "relative_path": "reference/edm---base/Codeunit/InsertFixedAssetandArabicEDM.html"
         }
       },
       "version": ""
     },
     {
       "type": "BusinessCentralApplicationObject",
-      "source_relative_path": "reference/edm---urbanpiper/Codeunit/LSCWebPOSUP.yml",
+      "source_relative_path": "reference/edm---base/Codeunit/Job-Queue-Functions---EDM.yml",
       "output": {
         ".html": {
-          "relative_path": "reference/edm---urbanpiper/Codeunit/LSCWebPOSUP.html"
+          "relative_path": "reference/edm---base/Codeunit/Job-Queue-Functions---EDM.html"
         }
       },
       "version": ""
     },
     {
       "type": "BusinessCentralApplicationObject",
-      "source_relative_path": "reference/edm---urbanpiper/Codeunit/UrbanPiperSubscribers.yml",
+      "source_relative_path": "reference/edm---base/Codeunit/JobRestarterHO.yml",
       "output": {
         ".html": {
-          "relative_path": "reference/edm---urbanpiper/Codeunit/UrbanPiperSubscribers.html"
+          "relative_path": "reference/edm---base/Codeunit/JobRestarterHO.html"
         }
       },
       "version": ""
     },
     {
       "type": "BusinessCentralApplicationObject",
-      "source_relative_path": "reference/edm---urbanpiper/Codeunit/UrbanPiperVoidTrans-EDM.yml",
+      "source_relative_path": "reference/edm---base/Enum/Manual-Unit-Cost-Dev.-Action.yml",
       "output": {
         ".html": {
-          "relative_path": "reference/edm---urbanpiper/Codeunit/UrbanPiperVoidTrans-EDM.html"
+          "relative_path": "reference/edm---base/Enum/Manual-Unit-Cost-Dev.-Action.html"
         }
       },
       "version": ""
     },
     {
       "type": "BusinessCentralApplicationObject",
-      "source_relative_path": "reference/edm---urbanpiper/Module/EDM---Urbanpiper.yml",
+      "source_relative_path": "reference/edm---base/Enum/Order-Posting.yml",
       "output": {
         ".html": {
-          "relative_path": "reference/edm---urbanpiper/Module/EDM---Urbanpiper.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "BusinessCentralObsoletionList",
-      "source_relative_path": "reference/edm---urbanpiper/Obsoletion/obsolete_by_21.2.yml",
-      "output": {
-        ".html": {
-          "relative_path": "reference/edm---urbanpiper/Obsoletion/obsolete_by_21.2.html"
+          "relative_path": "reference/edm---base/Enum/Order-Posting.html"
         }
       },
       "version": ""
     },
     {
       "type": "BusinessCentralApplicationObject",
-      "source_relative_path": "reference/edm---urbanpiper/TableExtension/LSCMobileTransExtesnion.yml",
+      "source_relative_path": "reference/edm---base/Enum/Transfer-Order-Posting.yml",
       "output": {
         ".html": {
-          "relative_path": "reference/edm---urbanpiper/TableExtension/LSCMobileTransExtesnion.html"
+          "relative_path": "reference/edm---base/Enum/Transfer-Order-Posting.html"
         }
       },
       "version": ""
     },
     {
       "type": "BusinessCentralApplicationObject",
-      "source_relative_path": "reference/edm---urbanpiper/TableExtension/POSTransactionExtension.yml",
+      "source_relative_path": "reference/edm---base/Module/EDM---Base.yml",
       "output": {
         ".html": {
-          "relative_path": "reference/edm---urbanpiper/TableExtension/POSTransactionExtension.html"
+          "relative_path": "reference/edm---base/Module/EDM---Base.html"
         }
       },
       "version": ""
     },
     {
       "type": "BusinessCentralApplicationObject",
-      "source_relative_path": "reference/edm---urbanpiper/XmlPort/LSCMobileTransactionXMLUP.yml",
+      "source_relative_path": "reference/edm---base/Page/Lookup-information.yml",
       "output": {
         ".html": {
-          "relative_path": "reference/edm---urbanpiper/XmlPort/LSCMobileTransactionXMLUP.html"
+          "relative_path": "reference/edm---base/Page/Lookup-information.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/CashReceiptJournal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/CashReceiptJournal.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/ChartOfAccount.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/ChartOfAccount.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/ChartofAccounts.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/ChartofAccounts.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/CustomerCard.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/CustomerCard.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/CustomerLedgerEntries.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/CustomerLedgerEntries.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/CustomerList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/CustomerList.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/EmailAccounts.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/EmailAccounts.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/EmployeeList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/EmployeeList.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/FADepreciationBooks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/FADepreciationBooks.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/FixedAssetList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/FixedAssetList.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/GLRegister.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/GLRegister.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/GLRegisters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/GLRegisters.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/GeneralJournal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/GeneralJournal.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/GeneralLedgerEntries.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/GeneralLedgerEntries.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/ItemCard.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/ItemCard.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/ItemLedgerEntries.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/ItemLedgerEntries.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/ItemList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/ItemList.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/JobQueueEntryCard.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/JobQueueEntryCard.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/LocationListEDMCUST.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/LocationListEDMCUST.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/MyItems.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/MyItems.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/MyVendors.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/MyVendors.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/Payment-Journal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/Payment-Journal.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/Phys.InventoryJournal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/Phys.InventoryJournal.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/PostedPurchaseInvoices.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/PostedPurchaseInvoices.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/PostedSalesCreditMemos.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/PostedSalesCreditMemos.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/PostedSalesInvoices.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/PostedSalesInvoices.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/PostedSalesShipment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/PostedSalesShipment.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/PostedTransferReceipts.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/PostedTransferReceipts.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/PostedTransferShipments.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/PostedTransferShipments.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/PurchaseJournal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/PurchaseJournal.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/PurchaseOrderList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/PurchaseOrderList.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/RequeststoApproveHO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/RequeststoApproveHO.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/SalesOrder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/SalesOrder.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/SalesOrderList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/SalesOrderList.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/SalesReturnOrderList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/SalesReturnOrderList.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/UserSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/UserSettings.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/UserSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/UserSetup.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/PageExtension/VendorDetails.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/PageExtension/VendorDetails.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/Report/Customer---DetailTrialBal.-EDM.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/Report/Customer---DetailTrialBal.-EDM.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/Report/Customer--TrialBalanceGB1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/Report/Customer--TrialBalanceGB1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/Report/Employee---Trial-Balance---EDM.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/Report/Employee---Trial-Balance---EDM.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/Report/Employee-Det-Trial-Balance-EDM.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/Report/Employee-Det-Trial-Balance-EDM.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/Report/G-L-Register---EDM.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/Report/G-L-Register---EDM.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/Report/Import-Item-Journal-from-Excel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/Report/Import-Item-Journal-from-Excel.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/Report/Payment-Voucher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/Report/Payment-Voucher.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/Report/Trial-Balance---EDM-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/Report/Trial-Balance---EDM-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/Report/Trial-Balance---EDM-GB1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/Report/Trial-Balance---EDM-GB1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/Report/Vendor---Trial-Balance-EDM.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/Report/Vendor---Trial-Balance-EDM.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/Report/Vendor---Trial-Balance-GB1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/Report/Vendor---Trial-Balance-GB1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/Report/Vendor-Detail-Trial-Bal-EDM.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/Report/Vendor-Detail-Trial-Bal-EDM.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/ReportExtension/AdjustCostItemEntriesEDM.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/ReportExtension/AdjustCostItemEntriesEDM.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/Table/Lookup-Information.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/Table/Lookup-Information.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/TableExtension/ApprovalEntry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/TableExtension/ApprovalEntry.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/TableExtension/CompanyInformation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/TableExtension/CompanyInformation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/TableExtension/Customer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/TableExtension/Customer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/TableExtension/DimensionValue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/TableExtension/DimensionValue.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/TableExtension/FA-Depreciation-Book.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/TableExtension/FA-Depreciation-Book.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/TableExtension/FixedAsset.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/TableExtension/FixedAsset.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/TableExtension/GLAccount.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/TableExtension/GLAccount.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/TableExtension/GenJourBatch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/TableExtension/GenJourBatch.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/TableExtension/GenJournalLine.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/TableExtension/GenJournalLine.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/TableExtension/Item.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/TableExtension/Item.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/TableExtension/ItemJournalLine.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/TableExtension/ItemJournalLine.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/TableExtension/JobQueueEntry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/TableExtension/JobQueueEntry.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/TableExtension/MyItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/TableExtension/MyItem.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/TableExtension/PurchaseHeader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/TableExtension/PurchaseHeader.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/TableExtension/SalesHeader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/TableExtension/SalesHeader.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/TableExtension/SalesReceivableSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/TableExtension/SalesReceivableSetup.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/TableExtension/TransferHeader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/TableExtension/TransferHeader.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/TableExtension/UserSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/TableExtension/UserSetup.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/edm---base/TableExtension/VendorHO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/edm---base/TableExtension/VendorHO.html"
         }
       },
       "version": ""
